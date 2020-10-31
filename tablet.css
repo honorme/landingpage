@@ -1,0 +1,48 @@
+@media screen and (max-width: 600px) {
+  .left {
+    width: 100%;
+  }
+  .right {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  .sectioni {
+    flex-direction: column;
+  }
+  .emergence {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 200px;
+    left: 150px;
+  }
+  .numberhold {
+    font-size: 13px;
+  }
+  .sectioniv {
+    flex-direction: column;
+  }
+  .gifs {
+    position: relative;
+    bottom: 200px;
+    justify-content: space-around;
+    /* background: blue; */
+  }
+  .eraser {
+    width: 40%;
+    margin-left: 10px;
+  }
+  .write {
+    width: 40%;
+    margin-right: 20px;
+  }
+  .sectionii {
+    margin-bottom: 300px;
+  }
+  .phaseii {
+    height: 700px;
+  }
+}
